@@ -5,6 +5,10 @@
 
 ![alt text](webpage.png)
 
+### Conflict arise while merge:
+
+![alt text](MergeConflict.png)
+
 ### Step 9 - Stash Changes:
 
 1. Create a new branch named “temp”, and make some changes but do not commit them. Use git stash to save the changes.
